@@ -281,7 +281,7 @@ def coletar_anuncios(todos_links_anuncios, empresa, logger, chrome_options):
 # Execução do script
 if __name__ == '__main__':
     
-    logger = configurar_logger('meu_logger', os.path.join(os.getcwd(), 'adsScraper.log'))
+    logger = configurar_logger('meu_logger', os.path.join(os.getcwd(), 'GoogleAdsScraper.log'))
     chrome_options = configurar_chrome_driver()
     
     empresa = input('Digite o nome da empresa: ')
