@@ -1,6 +1,6 @@
-# Ads Scraper
+# GoosleAdsScraper
 
-Ads Scraper é uma ferramenta desenvolvida em Python para coletar e analisar anúncios de transparência publicados no Google. Ele utiliza o Selenium WebDriver para navegar automaticamente nas páginas e extrair informações relevantes sobre anúncios de empresas específicas.
+GoogleAdsScraper é uma ferramenta desenvolvida em Python para coletar e analisar anúncios de transparência publicados no Google. Ele utiliza o Selenium WebDriver para navegar automaticamente nas páginas e extrair informações relevantes sobre anúncios de empresas específicas.
 
 ## Funcionalidades
 
